@@ -1,0 +1,156 @@
+{
+  "destinations": [
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "image": "turkey.jpg",
+      "id": 1,
+      "description":
+        "Türkiye, eşsiz coğrafyası, tarihi zenginlikleri ve çeşitli kültürleriyle dünya üzerinde öne çıkan bir turistik destinasyondur. Üzerinde yer aldığı Anadolu toprakları, binlerce yıllık medeniyetlere ev sahipliği yapmıştır. Göbeklitepe gibi arkeolojik harikalar, Kapadokya'nın peri bacaları, Ege'nin masmavi koyları ve İstanbul'un eşsiz boğaz manzarası gibi doğal güzellikler Türkiye'nin turistik çekiciliğini oluşturan sadece birkaç örnek.",
+      "experiences": [
+        {
+          "name": "Antalya",
+          "slug": "antalya",
+          "image": "antalya.jpg",
+          "description":
+            "Antalya, muazzam doğal güzellikleri, tarih kokan mekanları ve sıcak Akdeniz iklimi ile Türkiye'nin en gözde turistik destinasyonlarından biridir. Akdeniz'in mavi sularına kucak açan bu şehir, tatilcileri büyüleyici plajları, tarihi kalıntıları, leziz mutfağı ve etkileyici doğal alanlarıyla karşılamaktadır."
+        },
+        {
+          "name": "İstanbul",
+          "slug": "istanbul",
+          "image": "istanbul.jpg",
+          "description":
+            "İstanbul, tarihi ve kültürel zenginlikleriyle göz kamaştıran, iki kıtayı birleştiren eşsiz bir şehirdir. Türkiye'nin en büyük metropolü olan İstanbul, Asya ve Avrupa kıtaları arasında köprü vazifesi gören Boğaziçi'ni, tarihi eserleri, modern yaşamı ve karışık kültürüyle benzersiz kılar."
+        },
+        {
+          "name": "İzmir",
+          "slug": "izmir",
+          "image": "izmir.jpg",
+          "description":
+            "İzmir, tarihi zenginlikleri, güzel plajları ve sıcak insanlarıyla öne çıkan bir Ege şehridir. Antik Smyrna kenti kalıntılarına ev sahipliği yapan İzmir, tarihiyle büyülerken, Kordon boyunca uzanan sahil şeridi ve zengin mutfak kültürüyle de keyifli bir atmosfer sunar. "
+        },
+        {
+          "name": "Ankara",
+          "slug": "ankara",
+          "image": "ankara.jpg",
+          "description":
+            "Ankara, Türkiye'nin başkenti olmasıyla birlikte modern yaşam tarzı ve tarihi dokusuyla dikkat çeker. Atatürk Orman Çiftliği ve Anıtkabir gibi önemli tarihi mekanlar, ziyaretçilere Türkiye'nin modernleşme sürecini görmeleri için fırsat sunar. "
+        }
+      ]
+    },
+    {
+      "name": "Panama",
+      "slug": "panama",
+      "image": "panama.jpg",
+      "id": 2,
+      "description":
+        "Panama, sıcak iklimi, tropikal yağmur ormanları, muhteşem plajları ve zengin biyoçeşitliliği ile dikkat çeken bir Orta Amerika ülkesidir. Başkenti Panama City, modern gökdelenleri, tarihi yapıları ve canlı kültürel yaşantısıyla öne çıkar. Panama'nın en büyük çekiciliği, Atlantik ve Pasifik Okyanusları'nı birbirine bağlayan, dünyanın en önemli su yollarından biri olan Panama Kanalı'dır.",
+      "experiences": [
+        {
+          "name": "Panama City",
+          "slug": "panama-city",
+          "image": "panama-city.jpg",
+          "description":
+            " Panama Şehri:Panama Şehri, Panama'nın başkenti ve en büyük şehridir. Modern gökdelenleri, tarihi zenginlikleri ve canlı kültürel atmosferi ile dikkat çeker. Şehir, Pasifik Okyanusu kıyısında yer alır ve Panama Kanalı'nın girişine ev sahipliği yapar. "
+        },
+        {
+          "name": "Panama Canal",
+          "slug": "panama-canal",
+          "image": "panama-canal.jpg",
+          "description":
+            "Panama Kanalı, dünya ticaretinin en önemli su yollarından biridir ve Atlas Okyanusu ile Pasifik Okyanusu'nu birbirine bağlar. 1914 yılında tamamlanan kanal, denizcilik trafiğini kısaltarak gemilerin Atlantik ve Pasifik arasında daha hızlı ve ekonomik bir şekilde seyahat etmelerini sağlar. "
+        },
+        {
+          "name": "Bocas del Toro",
+          "slug": "bocas-del-toro",
+          "image": "bocas-del-toro.jpg",
+          "description":
+            "Bocas del Toro, Panama'nın Karayip kıyısında yer alan bir cennet köşesidir. Renkli evleri, berrak suları ve eşsiz deniz yaşamı ile ünlüdür. Bocas del Toro'da bulunan teleferik, doğanın kucaklayıcı güzelliğini yüksekten gözlemleme fırsatı sunar. "
+        },
+        {
+          "name": "Santa Catalina",
+          "slug": "santa-catalina",
+          "image": "santa-catalina.jpg",
+          "description":
+            "Santa Catalina, Panama'nın Pasifik kıyısında, Coiba Adası Milli Parkı'na yakın bir kıyı kasabasıdır. Bu bölge, özellikle sörf ve dalış gibi su sporlarıyla ilgilenenler için popülerdir."
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "image": "hawaii.jpg",
+      "id": 3,
+      "description":
+        "Hawaii, sadece muazzam volkanik peyzajları değil, aynı zamanda tarihi zenginlikleri ve sıcakkanlı yerel halkıyla da bilinir. 137 adadan oluşan Hawaii Adaları, turistlere doğanın büyüleyici güzelliklerini ve çeşitli etkinliklerini keşfetme fırsatı sunar.",
+      "experiences": [
+        {
+          "name": "Na Pali Coast",
+          "slug": "na-pali-coast",
+          "image": "na-pali-coast.jpg",
+          "description":
+            "Kauai adasının kuzeybatısında yer alan Na Pali Coast, adeta bir doğa harikasıdır. Volkanik zirvelerin dik yamaçları, derin vadiler ve muazzam deniz kolları, bölgeyi benzersiz kılan özelliklerdir. Adını,Cennetin Duvarları anlamına gelen Na Pal teriminden alan bu kıyı şeridi, ziyaretçilere adeta bir doğa sergisi sunar."
+        },
+        {
+          "name": "O'Ahu's North Shore",
+          "slug": "ohaus-north-shore",
+          "image": "ohaus-north-shore.jpg",
+          "description":
+            " O'ahu adasının kuzey kıyısı, özellikle ünlü North Shore'u, dünyaca ünlü dev dalgaları, uzun plajları ve serin sörf kasabaları ile tanınır. Sunset Beach, Banzai Pipeline ve Waimea Bay gibi sörf noktaları, dünya çapındaki sörf tutkunlarının ilgisini çeker. Kış aylarında, burası dünyanın en büyük dalgalarına ev sahipliği yapar."
+        },
+        {
+          "name": "Waikiki Beach",
+          "slug": "waikiki-beach",
+          "image": "waikiki-beach.jpg",
+          "description":
+            "Waikiki Beach, O'ahu adasının güney kıyısında yer alan ikonik bir plajdır. Beyaz kumlu plajları, turkuaz renkli suları ve ünlü Diamond Head Yanardağı'nın arka planı ile ünlüdür. Waikiki, hem dinlenmek hem de su sporlarıyla meşgul olmak isteyen ziyaretçiler için mükemmel bir destinasyondur. "
+        },
+        {
+          "name": "Kilauea Volcano",
+          "slug": "kilauea-volcano",
+          "image": "kilauea-volcano.jpg",
+          "description":
+            "Hawaii adalarının büyüleyici Kilauea Volkanı, Big Island adasında yer alır ve dünyanın en aktif yanardağlarından biridir. Volkan, zaman içinde yarımadayı şekillendiren lav akıntılarına ev sahipliği yapmıştır. Ziyaretçiler, Hawai'i Volkanları Milli Parkı içinde Kilauea'ya çıkabilir ve volkanın etkileyici kraterini görebilirler"
+        }
+      ]
+    },
+    {
+      "name": "Küba",
+      "slug": "küba",
+      "image": "küba.jpg",
+      "id": 4,
+      "description":
+        " Küba birçok tarihî ve kültürel zenginliklere ev sahipliği yapan ilginç bir destinasyondur.Küba'nın kendine özgü atmosferi, tarihi ve kültürüyle birlikte turistlere unutulmaz bir deneyim sunmaktadır. Ancak seyahat etmeden önce güncel seyahat rehberlerini kontrol etmeyi ve gerekli hazırlıkları yapmayı unutmayın.        ",
+      "experiences": [
+        {
+          "name": "Havana",
+          "slug": "havana",
+          "image": "havana.jpg",
+          "description":
+            "Küba'nın başkenti olan Havana, renkli sokakları, tarihî binaları, eski Amerikan arabaları ve salsa müziği ile ünlüdür. Eski şehir bölgesi (Old Havana), UNESCO Dünya Mirası Listesi'nde yer alır ve tarihî kaleleri, katedralleri ve müzeleri içerir."
+        },
+        {
+          "name": "Varadero",
+          "slug": "varadero",
+          "image": "varadero.jpg",
+          "description":
+            "Küba'nın en popüler tatil beldelerinden biridir. Beyaz kumlu plajları ve turkuaz denizi ile ünlüdür. Burada su sporları yapabilir, güneşlenip dinlenebilirsiniz."
+        },
+        {
+          "name": "Trinidad",
+          "slug": "trinidad",
+          "image": "trinidad.jpg",
+          "description":
+            "UNESCO Dünya Mirası Listesi'nde yer alan Trinidad, tarihî şehir merkezi ve renkli evleri ile bilinir. Kopanıza kolonyal döneme ait mimari örnekleri görmek istiyorsanız, bu şehri ziyaret etmek harika bir seçenektir."
+        },
+        {
+          "name": "Cienfuegos",
+          "slug": "cienfuegos",
+          "image": "cienfuegos.jpg",
+          "description":
+            "Güzel şehir anlamına gelen Cienfuegos, zarif Fransız etkisi altındaki mimarisi ile bilinir. Şehir merkezi ve deniz kıyısındaki Malecon, ziyaretçilere keyifli bir atmosfer sunar."
+        }
+      ]
+    }
+  ]
+}
